@@ -1,4 +1,4 @@
-# Subtitle Viewer & Controller (Tkinter)
+# Subtitle Viewer & Controller
 
 ## General Information
 This is a small project that allows users to **open already downloaded subtitles for movies** and provides **basic control and handling of subtitle files**.
