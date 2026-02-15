@@ -13,7 +13,7 @@ This is a small project that allows users to **open already downloaded subtitles
 ## Software
 - Python 3.x
 
-## How to use
+## How it works
 
 1. Launch the program.  
 2. When the timer appears at the bottom of the screen, hover over it to reveal the GUI in the top-right corner.  
